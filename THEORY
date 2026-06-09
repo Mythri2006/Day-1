@@ -12,9 +12,9 @@ WHAT IS PYTHON ?
     It is easy to learn and execute .
     
 ROLE OF INTERPRETOR?
-    An interpretor executes the code line by line and displays if there is any error 
+    An interpretor executes the code line by line and displays if there is any error at that point.
 
 ROLE OF COMPILER ? 
-    A compiler compiles the whole code  and then displays the errors . 
+    A compiler compiles the whole code  and then displays the errors after compiling the code . 
 
  
